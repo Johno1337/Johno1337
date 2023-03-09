@@ -3,4 +3,4 @@
 <p align="left">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=lua,html,css,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,html,css,figma&theme=dark)](https://skillicons.dev)
